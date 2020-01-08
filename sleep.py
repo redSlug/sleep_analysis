@@ -103,6 +103,6 @@ def write_sleep_csv(data):
 
 
 if __name__ == "__main__":
-    # write_sleep_data()
+    write_sleep_data()
     data = read_sleep_data()
     write_sleep_csv(data)

@@ -1,4 +1,4 @@
-sleep_time,wake_time,sleep_ratio,minutes_asleep,minutes_deep,minutes_rem,minutes_light,minutes_wake,efficiency,minutes_awake_1,minutes_awake_2,rolling_average
+sleep_time,wake_time,sleep_ratio,minutes_asleep,minutes_deep,minutes_rem,minutes_light,minutes_wake,efficiency,minutes_awake_1,minutes_awake_2
 2019-11-02 23:43,2019-11-03 07:55,0.92,459,65,114,280,38,94,26,26
 2019-11-03 23:10,2019-11-04 08:01,0.85,458,60,76,322,82,90,44,44
 2019-11-06 00:00,2019-11-06 08:18,0.86,429,73,82,274,70,90,30,30
